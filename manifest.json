@@ -1,0 +1,9 @@
+{
+  "domain": "air_quality_whu",
+  "name": "Air Quality Sensor for WHU",
+  "documentation": "https://yokii.cn",
+  "dependencies": [],
+  "codeowners": ["@CNYoki"],
+  "requirements": [],
+  "version": "1.0"
+}
